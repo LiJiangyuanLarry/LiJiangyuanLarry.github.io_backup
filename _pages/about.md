@@ -18,10 +18,10 @@ I am an **Assistant Professor of Finance** at School of Finance, **Shanghai Univ
 助理教授  
 上海财经大学金融学院  
 上海市杨浦区武东路100号  
-邮箱：lijiangyuan@mail.sufe.edu.cn
+邮箱：lijiangyuan at mail.sufe.edu.cn
 
 LI Jiangyuan  
 Assistant Professor  
 School of Finance, Shanghai University of Finance and Economics  
 100 Wudong Road, Yangpu District, Shagnhai, China, 200433  
-Email：lijiangyuan@mail.sufe.edu.cn  
+Email：lijiangyuan at mail.sufe.edu.cn  
