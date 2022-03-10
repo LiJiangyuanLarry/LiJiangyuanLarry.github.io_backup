@@ -3,8 +3,8 @@ main:
   - title: "科研 Publications"
     url: /publications/
   
-  #- title: "数据 Data"
-  #  url: /portfolio/
+  - title: "数据 Data"
+    url: /portfolio/
         
   #- title: "团队博客：金融经济学实务指南"
   #  url: /year-archive/
