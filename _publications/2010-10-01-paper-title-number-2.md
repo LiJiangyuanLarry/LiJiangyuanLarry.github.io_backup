@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Time-Series Momentum: is it There"
 collection: publications
 permalink:
 excerpt:
