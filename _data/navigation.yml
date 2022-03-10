@@ -9,8 +9,8 @@ main:
   #- title: "团队博客：金融经济学实务指南"
   #  url: /year-archive/
     
-  #- title: "简历 CV"
-  #  url: /cv/
+  - title: "简历 CV"
+    url: /cv/
 
   #- title: "教学 Teaching"
   #  url: /teaching/    
