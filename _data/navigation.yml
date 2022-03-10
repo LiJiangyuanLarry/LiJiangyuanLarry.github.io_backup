@@ -2,10 +2,7 @@
 main:
   - title: "科研 Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+  
   - title: "数据 Data"
     url: /portfolio/
         
@@ -14,3 +11,6 @@ main:
     
   - title: "简历 CV"
     url: /cv/
+
+  - title: "教学 Teaching"
+    url: /teaching/    
