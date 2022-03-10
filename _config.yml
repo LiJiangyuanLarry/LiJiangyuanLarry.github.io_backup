@@ -82,22 +82,13 @@ analytics:
 author:
   name             : "李江远 LI Jiangyuan"
   avatar           : "SY108897copy.png"
-  bio              : "上海财经大学
-  
-                      Shanghai University of Finance and Economics
-                      
-                      金融学院
-                      
-                      School of Finance
-                      
-                      助理教授
-                      
+  bio              : "助理教授
                       Assistant Professor"
   location         : "中国 China，上海 "
-  employer         : 
+  employer         : 上海财经大学 Shanghai University of Finance and Economics
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : lijiangyuan@mail.sufe.edu.cn
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : # lijiangyuan@mail.sufe.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
