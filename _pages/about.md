@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于我 About Me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
