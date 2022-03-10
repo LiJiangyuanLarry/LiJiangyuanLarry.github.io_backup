@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "李江远 / LI Jiangyuan"
+title                    : "李江远 LI Jiangyuan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "李江远 LI Jiangyuan"
   avatar           : "SY108897copy.png"
-  bio              : "助理教授|Assistant Professor"
-  location         : "中国 China，上海 "
-  employer         : 上海财经大学|Shanghai University of Finance and Economics
+  bio              : "助理教授 /n Assistant Professor"
+  location         : "中国 China, 上海 Shanghai"
+  employer         : 上海财经大学 /n Shanghai University of Finance and Economics
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : # lijiangyuan@mail.sufe.edu.cn
